@@ -66,13 +66,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 
-##  Options
-| Option          | Description                              | Default | Allowed Values            |
-| --------------- | ---------------------------------------- | ------- | ------------------------- |
-| `--sort <TYPE>` | Sort packages by a specific field        | `date`  | `name`, `date`, `average` |
-| `--order <DIR>` | Sort direction (ascending or descending) | `asc`   | `asc`, `desc`             |
-
-
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
